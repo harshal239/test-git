@@ -1,0 +1,14 @@
+export { default as Banner } from "./Banner";
+export { default as Footer } from "./Footer";
+export { default as Future } from "./Future";
+export { default as GetInTouch } from "./GetInTouch";
+export { default as Services } from "./Services";
+export { default as Testimonial } from "./Testimonial";
+export { default as Layout } from "./Layout";
+export { default as Counter } from "./Counter";
+export { default as Accordion } from "./Accordion";
+export { default as MailingList } from "./MailingList";
+export { default as BlogBanner } from "./BlogBanner";
+export { default as BlogCard } from "./BlogCard";
+export { default as SimilarPosts } from "./SimilarPosts";
+export { default as Loader } from "./Loader";
